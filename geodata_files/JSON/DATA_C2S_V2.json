@@ -1,4 +1,10 @@
-[
+[ {
+    "NOM_DATA": "Taux de bénéficiaires de la Complémentaire Santé Solidaire",
+    "DATE_DATA": "Situation à début janvier 2023",
+    "TAUX_DEPARTEMENT": "13,5",
+    "NB_BENEF_TITRE": "Nombre de bénéficiaires de la Complémentaire Santé Solidaire",
+    "TAUX_BENEF_TITRE": "Taux de bénéficiaires de la Complémentaire Santé Solidaire"
+  },
   {
     "CODE_EPCI": 200010700,
     "NOM_EPCI": "CA Caux Seine Agglo",
