@@ -1,4 +1,10 @@
-[
+[ {
+    "NOM_DATA": "Taux de recours aux soins dentaires des jeunes de 3 à 24 ans",
+    "DATE_DATA": "Situation à début janvier 2023",
+    "TAUX_DEPARTEMENT": "57,7",
+    "NB_BENEF_TITRE": "Nombre de recours aux soins dentaires chez les jeunes",
+    "TAUX_BENEF_TITRE": "Taux de recours aux soins dentaires chez les jeunes"
+  },
   {
     "CODE_EPCI": 200010700,
     "NOM_EPCI": "CA Caux Seine Agglo",
