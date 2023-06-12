@@ -139,8 +139,8 @@ $.when(
     var labels = []
 
     // Add min & max
-    div.innerHTML = '<div class="labels"><div class="min">' + limits[0] + ' J</div> \
-			<div class="max">' + limits[limits.length - 1] + ' J</div></div>'
+    div.innerHTML = '<div class="labels"><div class="min">' + limits[0] + ' %</div> \
+			<div class="max">' + limits[limits.length - 1] + ' %</div></div>'
 
     limits.forEach(function (limit, index) {
       labels.push('<li style="background-color: ' + colors[index] + '"></li>')
