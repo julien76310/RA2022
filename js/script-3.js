@@ -109,7 +109,7 @@ $.when(
        var date_map = data[index_detailsData]["DATE_DATA"];
        var taux_departement = data.length;
        const elem = document.getElementById("titre");
-       elem.innerHTML = = titre_map+' - '+date_map ;
+       elem.innerHTML = titre_map;
        const elem2 = document.getElementById("reference");
        elem2.innerHTML = '<strong>'+taux_departement +' établissements hospitaliers</strong> en Seine-Maritime'+" - "+date_map;
  
