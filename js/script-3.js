@@ -108,8 +108,9 @@ $.when(
        var titre_map = data[index_detailsData]["NOM_DATA"];
        var date_map = data[index_detailsData]["DATE_DATA"];
        var taux_departement = data.length;
-       document.title = titre_map+' - '+date_map ;
-       const elem = document.getElementById("new-parent");
-       elem.innerHTML = titre_map+'<strong>'+taux_departement +' établissements hospitaliers</strong> en Seine-Maritime'+" - "+date_map;
+       const elem = document.getElementById("titre");
+       elem.innerHTML = = titre_map+' - '+date_map ;
+       const elem2 = document.getElementById("reference");
+       elem2.innerHTML = '<strong>'+taux_departement +' établissements hospitaliers</strong> en Seine-Maritime'+" - "+date_map;
  
   });
