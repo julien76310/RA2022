@@ -1,0 +1,175 @@
+[
+  [
+    {
+      "CODE_EPCI": 200010700,
+      "NOM_EPCI": "CA Caux Seine Agglo",
+      "TYPE_EPCI": "CA",
+      "NB_ENFANTS_DOSE1": 417,
+      "TAUX_DOSE1": "45,10%",
+      "NB_BENEF": 245,
+      "TAUX_BENEF": "26,50%"
+    },
+    {
+      "CODE_EPCI": 200066405,
+      "NOM_EPCI": "CC Roumois Seine",
+      "TYPE_EPCI": "CC",
+      "NB_ENFANTS_DOSE1": "",
+      "TAUX_DOSE1": "",
+      "NB_BENEF": "",
+      "TAUX_BENEF": ""
+    },
+    {
+      "CODE_EPCI": 200068534,
+      "NOM_EPCI": "CC Terroir de Caux",
+      "TYPE_EPCI": "CC",
+      "NB_ENFANTS_DOSE1": 216,
+      "TAUX_DOSE1": "50,90%",
+      "NB_BENEF": 134,
+      "TAUX_BENEF": "31,60%"
+    },
+    {
+      "CODE_EPCI": 200069821,
+      "NOM_EPCI": "CA Fécamp Caux Littoral Agglomération",
+      "TYPE_EPCI": "CA",
+      "NB_ENFANTS_DOSE1": 138,
+      "TAUX_DOSE1": "37,50%",
+      "NB_BENEF": 59,
+      "TAUX_BENEF": "16%"
+    },
+    {
+      "CODE_EPCI": 200069847,
+      "NOM_EPCI": "CC Plateau de Caux-Doudeville-Yerville",
+      "TYPE_EPCI": "CC",
+      "NB_ENFANTS_DOSE1": 148,
+      "TAUX_DOSE1": "64,40%",
+      "NB_BENEF": 84,
+      "TAUX_BENEF": "36,50%"
+    },
+    {
+      "CODE_EPCI": 200023414,
+      "NOM_EPCI": "Métropole Rouen Normandie",
+      "TYPE_EPCI": "METRO",
+      "NB_ENFANTS_DOSE1": 2301,
+      "TAUX_DOSE1": "43,50%",
+      "NB_BENEF": 1195,
+      "TAUX_BENEF": "22,60%"
+    },
+    {
+      "CODE_EPCI": 200069722,
+      "NOM_EPCI": "CC interrégionale Aumale - Blangy-sur-Bresle",
+      "TYPE_EPCI": "CC",
+      "NB_ENFANTS_DOSE1": 51,
+      "TAUX_DOSE1": "31,50%",
+      "NB_BENEF": 22,
+      "TAUX_BENEF": "13,60%"
+    },
+    {
+      "CODE_EPCI": 200084952,
+      "NOM_EPCI": "CU Le Havre Seine Métropole",
+      "TYPE_EPCI": "CU",
+      "NB_ENFANTS_DOSE1": 1295,
+      "TAUX_DOSE1": "41,40%",
+      "NB_BENEF": 711,
+      "TAUX_BENEF": "22,70%"
+    },
+    {
+      "CODE_EPCI": 247600588,
+      "NOM_EPCI": "CC des Villes Soeurs",
+      "TYPE_EPCI": "CC",
+      "NB_ENFANTS_DOSE1": 47,
+      "TAUX_DOSE1": "25,40%",
+      "NB_BENEF": 20,
+      "TAUX_BENEF": "10,80%"
+    },
+    {
+      "CODE_EPCI": 247600604,
+      "NOM_EPCI": "CC de Londinières",
+      "TYPE_EPCI": "CC",
+      "NB_ENFANTS_DOSE1": 22,
+      "TAUX_DOSE1": "40,70%",
+      "NB_BENEF": 10,
+      "TAUX_BENEF": "18,50%"
+    },
+    {
+      "CODE_EPCI": 247600620,
+      "NOM_EPCI": "CC Yvetot Normandie",
+      "TYPE_EPCI": "CC",
+      "NB_ENFANTS_DOSE1": 144,
+      "TAUX_DOSE1": "55,00%",
+      "NB_BENEF": 81,
+      "TAUX_BENEF": "30,90%"
+    },
+    {
+      "CODE_EPCI": 200070449,
+      "NOM_EPCI": "CC Inter-Caux-Vexin",
+      "TYPE_EPCI": "CC",
+      "NB_ENFANTS_DOSE1": 397,
+      "TAUX_DOSE1": "62,80%",
+      "NB_BENEF": 255,
+      "TAUX_BENEF": "40,40%"
+    },
+    {
+      "CODE_EPCI": 247600786,
+      "NOM_EPCI": "CA de la Région Dieppoise",
+      "TYPE_EPCI": "CA",
+      "NB_ENFANTS_DOSE1": 122,
+      "TAUX_DOSE1": "30,80%",
+      "NB_BENEF": 47,
+      "TAUX_BENEF": "11,90%"
+    },
+    {
+      "CODE_EPCI": 200070068,
+      "NOM_EPCI": "CC Communauté Bray-Eawy",
+      "TYPE_EPCI": "CC",
+      "NB_ENFANTS_DOSE1": 106,
+      "TAUX_DOSE1": "48%",
+      "NB_BENEF": 62,
+      "TAUX_BENEF": "27,80%"
+    },
+    {
+      "CODE_EPCI": 200069730,
+      "NOM_EPCI": "CC des 4 rivières",
+      "TYPE_EPCI": "CC",
+      "NB_ENFANTS_DOSE1": 98,
+      "TAUX_DOSE1": "40,20%",
+      "NB_BENEF": 50,
+      "TAUX_BENEF": "20,50%"
+    },
+    {
+      "CODE_EPCI": 200069839,
+      "NOM_EPCI": "CC de la Côte d'Albâtre",
+      "TYPE_EPCI": "CC",
+      "NB_ENFANTS_DOSE1": 114,
+      "TAUX_DOSE1": "44,50%",
+      "NB_BENEF": 61,
+      "TAUX_BENEF": "23,80%"
+    },
+    {
+      "CODE_EPCI": 247600646,
+      "NOM_EPCI": "CC Caux - Austreberthe",
+      "TYPE_EPCI": "CC",
+      "NB_ENFANTS_DOSE1": 182,
+      "TAUX_DOSE1": "55,70%",
+      "NB_BENEF": 103,
+      "TAUX_BENEF": "31,50%"
+    },
+    {
+      "CODE_EPCI": 247600505,
+      "NOM_EPCI": "CC Campagne-de-Caux",
+      "TYPE_EPCI": "CC",
+      "NB_ENFANTS_DOSE1": 82,
+      "TAUX_DOSE1": "44,80%",
+      "NB_BENEF": 42,
+      "TAUX_BENEF": "23%"
+    },
+    {
+      "CODE_EPCI": 247600729,
+      "NOM_EPCI": "CC Falaises du Talou",
+      "TYPE_EPCI": "CC",
+      "NB_ENFANTS_DOSE1": 99,
+      "TAUX_DOSE1": "38,10%",
+      "NB_BENEF": 46,
+      "TAUX_BENEF": "17,70%"
+    }
+  ]
+]

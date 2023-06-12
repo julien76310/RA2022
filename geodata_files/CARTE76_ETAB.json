@@ -1,0 +1,52 @@
+[
+  {
+    "ID_ETAB": 1,
+    "MARKER": "49.4878793,0.1352902",
+    "NOM_ETAB": "Clinique des Ormeaux"
+  },
+  {
+    "ID_ETAB": 2,
+    "MARKER": "49.528879,0.0999512",
+    "NOM_ETAB": "Hopital privé de l'Estuaire"
+  },
+  {
+    "ID_ETAB": 3,
+    "MARKER": "49.5344603,0.1789986",
+    "NOM_ETAB": "Groupe hospitalier du Havre"
+  },
+  {
+    "ID_ETAB": 4,
+    "MARKER": "49.7138,0.4002",
+    "NOM_ETAB": "CHI du Pays des Hautes Falaises"
+  },
+  {
+    "ID_ETAB": 5,
+    "MARKER": "49.8159,0.7711",
+    "NOM_ETAB": "CH ST Valery en Caux"
+  },
+  {
+    "ID_ETAB": 6,
+    "MARKER": "49.9218582,1.0785723",
+    "NOM_ETAB": "CH Dieppe"
+  },
+  {
+    "ID_ETAB": 7,
+    "MARKER": "49.4390183,1.1113816",
+    "NOM_ETAB": "CHU"
+  },
+  {
+    "ID_ETAB": 8,
+    "MARKER": "49.4247432,1.0859212",
+    "NOM_ETAB": "Clinique de l'Europe"
+  },
+  {
+    "ID_ETAB": 9,
+    "MARKER": "49.4413788,1.1141173",
+    "NOM_ETAB": "Clinique ST Hilaire"
+  },
+  {
+    "ID_ETAB": 10,
+    "MARKER": "49.3027,1.0197",
+    "NOM_ETAB": "CHI Elbeuf Louviers Val de Reuil"
+  }
+]

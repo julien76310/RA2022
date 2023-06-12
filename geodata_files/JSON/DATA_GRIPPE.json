@@ -1,0 +1,141 @@
+[  {
+    "NOM_DATA": "Taux de vaccination anti-grippale des +65 ans",
+    "DATE_DATA": "Situation à début janvier 2023",
+    "TAUX_DEPARTEMENT": "23.8",
+    "NB_BENEF_TITRE": "Nombre de personnes de + de 65 ans vaccinées",
+    "TAUX_BENEF_TITRE": "Taux de personnes de + de 65 ans vaccinées"
+  },
+  {
+    "CODE_EPCI": 200010700,
+    "NOM_EPCI": "CA Caux Seine Agglo",
+    "TYPE_EPCI": "CA",
+    "NB_BENEF": 8439,
+    "TAUX_BENEF": "62,30%"
+  },
+  {
+    "CODE_EPCI": 200066405,
+    "NOM_EPCI": "CC Roumois Seine",
+    "TYPE_EPCI": "CC",
+    "NB_BENEF": "",
+    "TAUX_BENEF": ""
+  },
+  {
+    "CODE_EPCI": 200068534,
+    "NOM_EPCI": "CC Terroir de Caux",
+    "TYPE_EPCI": "CC",
+    "NB_BENEF": 3950,
+    "TAUX_BENEF": "65,90%"
+  },
+  {
+    "CODE_EPCI": 200069821,
+    "NOM_EPCI": "CA Fécamp Caux Littoral Agglomération",
+    "TYPE_EPCI": "CA",
+    "NB_BENEF": 4899,
+    "TAUX_BENEF": "63,90%"
+  },
+  {
+    "CODE_EPCI": 200069847,
+    "NOM_EPCI": "CC Plateau de Caux-Doudeville-Yerville",
+    "TYPE_EPCI": "CC",
+    "NB_BENEF": 2116,
+    "TAUX_BENEF": "67,50%"
+  },
+  {
+    "CODE_EPCI": 200023414,
+    "NOM_EPCI": "Métropole Rouen Normandie",
+    "TYPE_EPCI": "METRO",
+    "NB_BENEF": 56515,
+    "TAUX_BENEF": "66,30%"
+  },
+  {
+    "CODE_EPCI": 200069722,
+    "NOM_EPCI": "CC interrégionale Aumale - Blangy-sur-Bresle",
+    "TYPE_EPCI": "CC",
+    "NB_BENEF": 1941,
+    "TAUX_BENEF": "58,90%"
+  },
+  {
+    "CODE_EPCI": 200084952,
+    "NOM_EPCI": "CU Le Havre Seine Métropole",
+    "TYPE_EPCI": "CU",
+    "NB_BENEF": 33143,
+    "TAUX_BENEF": "66,10%"
+  },
+  {
+    "CODE_EPCI": 247600588,
+    "NOM_EPCI": "CC des Villes Soeurs",
+    "TYPE_EPCI": "CC",
+    "NB_BENEF": 3362,
+    "TAUX_BENEF": "60,40%"
+  },
+  {
+    "CODE_EPCI": 247600604,
+    "NOM_EPCI": "CC de Londinières",
+    "TYPE_EPCI": "CC",
+    "NB_BENEF": 525,
+    "TAUX_BENEF": "65,60%"
+  },
+  {
+    "CODE_EPCI": 247600620,
+    "NOM_EPCI": "CC Yvetot Normandie",
+    "TYPE_EPCI": "CC",
+    "NB_BENEF": 3310,
+    "TAUX_BENEF": "65,80%"
+  },
+  {
+    "CODE_EPCI": 200070449,
+    "NOM_EPCI": "CC Inter-Caux-Vexin",
+    "TYPE_EPCI": "CC",
+    "NB_BENEF": 6325,
+    "TAUX_BENEF": "68,90%"
+  },
+  {
+    "CODE_EPCI": 247600786,
+    "NOM_EPCI": "CA de la Région Dieppoise",
+    "TYPE_EPCI": "CA",
+    "NB_BENEF": 6835,
+    "TAUX_BENEF": "61,90%"
+  },
+  {
+    "CODE_EPCI": 200070068,
+    "NOM_EPCI": "CC Communauté Bray-Eawy",
+    "TYPE_EPCI": "CC",
+    "NB_BENEF": 2620,
+    "TAUX_BENEF": "64%"
+  },
+  {
+    "CODE_EPCI": 200069730,
+    "NOM_EPCI": "CC des 4 rivières",
+    "TYPE_EPCI": "CC",
+    "NB_BENEF": 3319,
+    "TAUX_BENEF": "60,00%"
+  },
+  {
+    "CODE_EPCI": 200069839,
+    "NOM_EPCI": "CC de la Côte d'Albâtre",
+    "TYPE_EPCI": "CC",
+    "NB_BENEF": 3051,
+    "TAUX_BENEF": "63,20%"
+  },
+  {
+    "CODE_EPCI": 247600646,
+    "NOM_EPCI": "CC Caux - Austreberthe",
+    "TYPE_EPCI": "CC",
+    "NB_BENEF": 3109,
+    "TAUX_BENEF": "67,80%"
+  },
+  {
+    "CODE_EPCI": 247600505,
+    "NOM_EPCI": "CC Campagne-de-Caux",
+    "TYPE_EPCI": "CC",
+    "NB_BENEF": 1454,
+    "TAUX_BENEF": "66,20%"
+  },
+  {
+    "CODE_EPCI": 247600729,
+    "NOM_EPCI": "CC Falaises du Talou",
+    "TYPE_EPCI": "CC",
+    "NB_BENEF": 2502,
+    "TAUX_BENEF": "62,10%"
+  }
+]

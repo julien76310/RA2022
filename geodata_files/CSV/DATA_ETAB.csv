@@ -1,0 +1,17 @@
+ID_ETAB,NOM_ETAB,COULEUR,ADRESSE_ETAB,VILLE_ETAB,IC,AVC,BPCO,SENIOR,COVID,CHIRURGIE,SSR,MATERNITE
+1,Clinique des Ormeaux,green,36 rue Marceau 76600 Le Havre,LE HAVRE,false,false,false,false,false,true,false,false
+2,Hopital privé de l'Estuaire,blue,"505 Rue Irène Joliot-Curie
+76620 Le Havre",LE HAVRE,true,false,false,true,false,true,false,false
+3,Groupe hospitalier du Havre,red, 29 Avenue Pierre Mendès France 76290 MONTIVILLIERS,MONTIVILLIERS,true,true,true,true,true,true,false,true
+4,CHI du Pays des Hautes Falaises,blue,"100 Av du Pdt F Mitterrand
+76400 Fécamp",FECAMP,true,false,true,true,true,false,false,false
+5,CH ST Valery en Caux,blue,"19 Rue Jeanne Armand Collin
+76460 Saint-Valery-en-Caux",SAINT VALERY EN CAUX,false,false,false,false,false,false,true,false
+6,CH Dieppe,blue, avenue Pasteur 76202 Dieppe,DIEPPE,true,true,false,true,true,false,false,false
+7,CHU,blue,"43 Boulevard Gambetta
+76000 Rouen",ROUEN,true,true,true,true,true,true,true,true
+8,Clinique de l'Europe,red,"73 Boulevard de l'Europe
+76100 Rouen",ROUEN,false,false,false,false,false,true,false,false
+9,Clinique ST Hilaire,green,2 place Saint-Hilaire 76000 Rouen,ROUEN,true,false,false,false,false,false,false,false
+10,CHI Elbeuf Louviers Val de Reuil,blue,"2 Rue Saint-Jean
+27400 Louviers",SAINT AUBIN LES ELBEUF,true,false,true,false,false,true,true,false
