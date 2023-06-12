@@ -117,8 +117,8 @@ $.when(
 
     var choroplethLayer = L.choropleth(geojson, {
       valueProperty: 'pourcent',
-      scale: ["#FFF38D","#ff9966","#CA4833"],
-      steps: 5,
+      scale: [ '#EA7784', '#F4C87C','#8dd3c7'],
+      steps: 4,
       mode: 'q',
       style: {
         color: '#fff',
