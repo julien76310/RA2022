@@ -99,10 +99,11 @@ $.when(
     var taux_departement = data[index_detailsData]["TAUX_DEPARTEMENT"];
     var taux_titre = data[index_detailsData]["TAUX_BENEF_TITRE"];
     var pop_titre = data[index_detailsData]["NB_BENEF_TITRE"];
-    document.title = titre_map+' - '+date_map ;
+    const elem = document.getElementById("titre");
+    elem.inneHTML = titre_map+' - '+date_map ;
     console.log(titre_map+' - '+date_map+' - '+taux_departement);
     
-    const elem = document.getElementById("new-parent");
+    const elem = document.getElementById("reference");
     elem.innerHTML = titre_map+' / <strong>Référence pour le département :'+taux_departement +'J</strong>';
     // Create hash table for easy reference
     // Add value from hash table to geojson properties
