@@ -87,8 +87,8 @@ function legend_for_choropleth_layer(layer, name, units, id) {
 
 // Fetch GeoJSON and data to join to it
 $.when(
-  $.getJSON('geodata_files/CARTE76_EPCI.geojson'),
-  $.getJSON('geodata_files/JSON/DATA_ARRETMALADIE.json')
+  $.getJSON('https://raw.githubusercontent.com/julien76310/GEOJSON/main/CARTE76_EPCI.geojson'),
+  $.getJSON('/RA2022/geodata_files/JSON/DATA_MT.json')
   ).done(function (responseGeojson, responseData) {
     var data = responseData[0]
     var geojson = responseGeojson[0]
