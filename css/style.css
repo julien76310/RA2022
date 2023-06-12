@@ -2,20 +2,13 @@ body {
   margin:0 auto;
 }
 
-.container {
-  display:flex;
-  height:100vh;
-  align-items:center;
-  background:#333;
-}
-
 .center-objs {
   margin:0 auto;
 }
   
 #map {
-  width: 1280px;
-  height:800px;
+  width: 645px;
+  height:400px;
 
 }
   /* Dropdown Button */
