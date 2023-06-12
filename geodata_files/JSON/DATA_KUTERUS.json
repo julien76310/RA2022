@@ -1,4 +1,10 @@
-[
+[ {
+    "NOM_DATA": "Taux de dépistage du cancer de l'utérus",
+    "DATE_DATA": "Situation à début janvier 2023",
+    "TAUX_DEPARTEMENT": "43",
+    "NB_BENEF_TITRE": "Nombre de dépistage",
+    "TAUX_BENEF_TITRE": "Taux de dépistage"
+  },
   {
     "CODE_EPCI": 200010700,
     "NOM_EPCI": "CA Caux Seine Agglo",
