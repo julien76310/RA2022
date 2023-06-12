@@ -29,11 +29,11 @@ function functiontofindIndexByKey(arraytosearch, key) {
 }
 // config map
  let config = {
-   minZoom: 8,
-   maxZomm: 10
+   minZoom: 9,
+   maxZomm: 11
  };
  // magnification with which the map will start
- const zoom = 8;
+ const zoom = 9;
  // co-ordinates 
  const lat = 49.6070158; 
  const lon = 0.7839116;
