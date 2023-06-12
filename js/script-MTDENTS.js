@@ -126,7 +126,7 @@ $.when(
         fillOpacity: 0.8
       },
       onEachFeature: function (feature, layer) {
-        layer.bindPopup('<h3>' + feature.properties.NOM_EPCI+ '</h3> '+taux_titre+': <strong>' + feature.properties.pourcent+ ' J</strong>'+'<br> '+pop_titre+' : <strong>' + feature.properties.concern+ ' </strong><hr> <small>CODE EPCI : '+feature.id+' / TYPE : '+feature.properties.type+'</small>')
+        layer.bindPopup('<h3>' + feature.properties.NOM_EPCI+ '</h3> '+taux_titre+': <strong>' + feature.properties.pourcent+ ' %</strong>'+'<br> '+pop_titre+' : <strong>' + feature.properties.concern+ ' </strong><hr> <small>CODE EPCI : '+feature.id+' / TYPE : '+feature.properties.type+'</small>')
       }
     }).addTo(map)
    
