@@ -117,8 +117,8 @@ $.when(
 
     var choroplethLayer = L.choropleth(geojson, {
       valueProperty: 'pourcent',
-      scale: ["#FFF38D","#ff9966","#CA4833"],
-      steps: 5,
+      scale: [ '#EA7784', '#F4C87C','#8dd3c7'],
+      steps: 4,
       mode: 'q',
       style: {
         color: '#fff',
@@ -126,7 +126,7 @@ $.when(
         fillOpacity: 0.8
       },
       onEachFeature: function (feature, layer) {
-        layer.bindPopup('<h3>' + feature.properties.NOM_EPCI+ '</h3> '+taux_titre+': <strong>' + feature.properties.pourcent+ ' J</strong>'+'<br> '+pop_titre+' : <strong>' + feature.properties.concern+ ' </strong><hr> <small>CODE EPCI : '+feature.id+' / TYPE : '+feature.properties.type+'</small>')
+        layer.bindPopup('<h3>' + feature.properties.NOM_EPCI+ '</h3> '+taux_titre+': <strong>' + feature.properties.pourcent+ ' %</strong>'+'<br> '+pop_titre+' : <strong>' + feature.properties.concern+ ' </strong><hr> <small>CODE EPCI : '+feature.id+' / TYPE : '+feature.properties.type+'</small>')
       }
     }).addTo(map)
    
