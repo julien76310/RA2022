@@ -104,7 +104,7 @@ $.when(
     console.log(titre_map+' - '+date_map+' - '+taux_departement);
     
     const elem2 = document.getElementById("reference");
-    elem2.innerHTML = titre_map+' / <strong>Référence pour le département :'+taux_departement +'J</strong>';
+    elem2.innerHTML = '<strong>Référence pour le département :'+taux_departement +'J</strong>';
     // Create hash table for easy reference
     // Add value from hash table to geojson properties
     geojson.features.forEach(function (item) {
