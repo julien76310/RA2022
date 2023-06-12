@@ -100,7 +100,7 @@ $.when(
     var taux_titre = data[index_detailsData]["TAUX_BENEF_TITRE"];
     var pop_titre = data[index_detailsData]["NB_BENEF_TITRE"];
     const elem = document.getElementById("titre");
-    elem.inneHTML = titre_map ;
+    elem.innerHTML = titre_map ;
     console.log(titre_map+' - '+date_map+' - '+taux_departement);
     
     const elem2 = document.getElementById("reference");
