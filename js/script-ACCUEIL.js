@@ -69,7 +69,7 @@ $.when(
         position_marker,
         { icon: L.icon({
           iconUrl: 'pictos/Accueil-'+data[index_data]["TYPE"]+'.png',
-          iconSize:     [20, 20], // size of the icon
+          iconSize:     [25, 25], // size of the icon
         }),
           draggable: true,
           title: "",
@@ -80,7 +80,7 @@ $.when(
        var index_detailsData = functiontofindIndexByKey(data, "NOM_DATA");
        var titre_map = data[index_detailsData]["NOM_DATA"];
        var date_map = data[index_detailsData]["DATE_DATA"];
-       var taux_departement = data.length;
+       var taux_departement = data.length-1;
        const elem = document.getElementById("titre");
        elem.innerHTML = titre_map;
        const elem2 = document.getElementById("reference");
