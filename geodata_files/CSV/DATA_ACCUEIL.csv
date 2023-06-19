@@ -1,0 +1,51 @@
+ID_ACCUEIL,NOM_ACCUEIL,TYPE,ADRESSE_ETAB,VILLE_ETAB
+1,YVETOT ,france_services,4 Rue de la Brême 76190 YVETOT,YVETOT 
+2,YVETOT ,agence,Place de la Gare 76190 YVETOT,YVETOT 
+3,YERVILLE ,france_services,Route de Tôtes Espace Delahaye 76760 YERVILLE,YERVILLE 
+4,TERRE DE CAUX ,france_services,58 Place du Général de Gaulle 76730 BACQUEVILLE-EN-CAUX,TERRE DE CAUX 
+5,SOTTEVILLE LES ROUEN ,france_services,4 Chemin du Halage Gens du voyage 76300 SOTTEVILLE-LES-ROUEN,SOTTEVILLE LES ROUEN 
+6,SAINT VALERY EN CAUX ,france_services,Place de la Gare Espace public du Littoral 76460 SAINT-VALERY-EN-CAUX,SAINT VALERY EN CAUX 
+7,SAINT ETIENNE DU ROUVRAY ,agence,Place Jean Prévost Château Blanc Le Madrillet 76800 SAINT-ETIENNE-DU-ROUVRAY,SAINT ETIENNE DU ROUVRAY 
+8,SAHURS ,msap,11 Rue BAS 76113 SAHURS,SAHURS 
+9,CPAM Rouen-Elbeuf-Dieppe,siege,50 Avenue de Bretagne 76100 ROUEN,ROUEN
+10,RIVES EN SEINE ,france_services,5 Rue Sainte gertrude 76490 CAUDEBEC-EN-CAUX,RIVES EN SEINE 
+11,PETIT QUEVILLY ,pt_accueil,Rue Martial Spinnweber 76140 LE PETIT-QUEVILLY,PETIT QUEVILLY 
+12,OISSEL ,france_services,Place de la liberté CCAS Centre Eliane Teumbeuf 76350 OISSEL,OISSEL 
+13,NOTRE DAME DE BONDEVILLE ,agence,95 Route de Dieppe 76690 NOTRE-DAME-DE-BONDEVILLE,NOTRE DAME DE BONDEVILLE 
+14,NEUFCHATEL EN BRAY ,pt_accueil,Espace Alfred Lemarchand 76270 NEUFCHATEL-EN-BRAY,NEUFCHATEL EN BRAY 
+15,MARTAINVILLE EPREVILLE ,msap,190 Route du chateau 76116 MARTAINVILLE-EPREVILLE,MARTAINVILLE EPREVILLE 
+16,MALAUNAY ,pt_accueil,Place de la Mairie Hotel de ville 76770 MALAUNAY,MALAUNAY 
+17,MAISON DU PLATEAU ,france_services,Place Alfred de Musset 76000 ROUEN,MAISON DU PLATEAU 
+18,LONDINIERES ,france_services,340 Rue du Maréchal Leclerc 76660 LONDINIERES,LONDINIERES 
+19,LES HAUTS DE ROUEN ,agence,8 Rue Joachim Du Bellay 76000 ROUEN,LES HAUTS DE ROUEN 
+20,LE TRAIT  ,france_services,Rue Victor Hugo 76380 LE TRAIT,LE TRAIT  
+21,JUMIEGES  ,france_services,33 Rue Guillaume le Conquérant 76480 JUMIEGES,JUMIEGES  
+22,GRAND COURONNE ,pt_accueil,50 Rue Georges Clémenceau 76530 GRAND-COURONNE,GRAND COURONNE 
+23,GOURNAY EN BRAY ,france_services,Place d'arme 76220 GOURNAY-EN-BRAY,GOURNAY EN BRAY 
+24,FONTAINE LE DUN ,france_services,40 Rue Charles lescane 76740 FONTAINE-LE-DUN,FONTAINE LE DUN 
+25,EU ,france_services,12 Avenue Jacques Anquetil 76260 EU,EU 
+26,ENVERMEUX ,france_services,46 Rue du général de Gaulle Falaises du Talou 76630 ENVERMEU,ENVERMEUX 
+27,ELBEUF  ,agence,Rue de la Prairie 76500 ELBEUF,ELBEUF  
+28,DOUDEVILLE ,france_services,2 Place du général de Gaulle Communauté plateau de Caux Doudeville 76560 DOUDEVILLE,DOUDEVILLE 
+29,DIEPPE ,agence,19 Rue de Stalingrad 76200 DIEPPE,DIEPPE 
+30,DARNETAL ,pt_accueil,99 Rue de Longpaon Espace culturel Savale 76160 DARNETAL,DARNETAL 
+31,CANY BARVILLE ,msap,Place Espace public de la Vallée 76450 CANY-BARVILLE,CANY BARVILLE 
+32,CANTELEU ,pt_accueil,6 Rue Ancienne Route de Duclair Maison des Services Publics 76380 CANTELEU,CANTELEU 
+33,BUCHY  ,france_services,171 Grande rue 76750 BUCHY,BUCHY  
+34,BOSC LE HARD ,msap,Place du marché 76850 BOSC-LE-HARD,BOSC LE HARD 
+35,BLANGY SUR BRESLES ,france_services,18 Rue de brianchon 76340 BLANGY-SUR-BRESLE,BLANGY SUR BRESLES 
+36,BELLENCOMBRE ,france_services,24 Rue de l'audience 76680 BELLENCOMBRE,BELLENCOMBRE 
+37,BARENTIN ,pt_accueil,Rue Emile Zola Maison Citoyenne 76360 BARENTIN,BARENTIN 
+38,VALMONT ,france_services,7 Rue d'estouville 76540 VALMONT,VALMONT 
+39,SAINT ROMAIN DE COLBOSC ,france_services,5 Rue Sylvestre Dumesnil 76340 SAINT-ROMAIN-DE-COLBOSC,SAINT ROMAIN DE COLBOSC 
+40,MONTIVILLIERS  ,france_services,Cours Saint Philibert 76290 MONTIVILLIERS,MONTIVILLIERS  
+41,LILLEBONNE ,pt_accueil,32 Rue de la République 76170 LILLEBONNE,LILLEBONNE 
+42,GONFREVILLE L’ORCHER ,france_services,1 Avenue Jacques Eberhard centre social AGIES 76700 GONFREVILLE-L'ORCHER,GONFREVILLE L’ORCHER 
+43,GODERVILLE  ,france_services,2 Rue de Bel Air 76110 GODERVILLE,GODERVILLE  
+44,FÉCAMP  ,pt_accueil,20 Place Général Leclerc 76400 FECAMP,FÉCAMP  
+45,ETRETAT ,france_services,Avenue George V 76790 ETRETAT,ETRETAT 
+46,CRIQUETOT L’ESNEVAL ,france_services,28 Route de Vergetot 76280 CRIQUETOT-L'ESNEVAL,CRIQUETOT L’ESNEVAL 
+47,LILLEBONNE – CLIP FORMATION  ,france_services,2 Rue Victor Hugo 76170 LILLEBONNE,LILLEBONNE – CLIP FORMATION  
+48,CAUCRIAUVILLE  ,pt_accueil,10 Rue Jules Vallès 76610 LE HAVRE,CAUCRIAUVILLE  
+49,ANGERVILLE L’ORCHER ,msap,33 Rue de l'Europe 76280 ANGERVILLE-L'ORCHER,ANGERVILLE L’ORCHER 
+50,CPAM Le Havre ,siege,"42 cours de la République, Le Havre",LE HAVRE
