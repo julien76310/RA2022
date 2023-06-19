@@ -51,7 +51,7 @@ function functiontofindIndexByKey(arraytosearch, key) {
 
 $.when(
   $.getJSON('https://raw.githubusercontent.com/julien76310/GEOJSON/main/CARTE76_ACCUEIL.json'),
-  $.getJSON('https://raw.githubusercontent.com/julien76310/GEOJSON/main/DATA_ACCUEIL.json')
+  $.getJSON('https://raw.githubusercontent.com/julien76310/RA2022/main/geodata_files/JSON/DATA_ACCUEIL.json')
   ).done(function (responseGeojson, responseData) {
     var data = responseData[0];
     var geojson = responseGeojson[0];
