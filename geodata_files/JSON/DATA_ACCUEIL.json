@@ -1,0 +1,355 @@
+[{
+    "NOM_DATA": "Cartographie des accueils en Seine-Maritime",
+    "DATE_DATA": "Situation à début janvier 2023"
+  },
+    {
+      "ID_ACCUEIL": 1,
+      "NOM_ACCUEIL": "YVETOT ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "4 Rue de la Brême 76190 YVETOT",
+      "VILLE_ETAB": "YVETOT "
+    },
+    {
+      "ID_ACCUEIL": 2,
+      "NOM_ACCUEIL": "YVETOT ",
+      "TYPE": "agence",
+      "ADRESSE_ETAB": "Place de la Gare 76190 YVETOT",
+      "VILLE_ETAB": "YVETOT "
+    },
+    {
+      "ID_ACCUEIL": 3,
+      "NOM_ACCUEIL": "YERVILLE ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "Route de Tôtes Espace Delahaye 76760 YERVILLE",
+      "VILLE_ETAB": "YERVILLE "
+    },
+    {
+      "ID_ACCUEIL": 4,
+      "NOM_ACCUEIL": "TERRE DE CAUX ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "58 Place du Général de Gaulle 76730 BACQUEVILLE-EN-CAUX",
+      "VILLE_ETAB": "TERRE DE CAUX "
+    },
+    {
+      "ID_ACCUEIL": 5,
+      "NOM_ACCUEIL": "SOTTEVILLE LES ROUEN ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "4 Chemin du Halage Gens du voyage 76300 SOTTEVILLE-LES-ROUEN",
+      "VILLE_ETAB": "SOTTEVILLE LES ROUEN "
+    },
+    {
+      "ID_ACCUEIL": 6,
+      "NOM_ACCUEIL": "SAINT VALERY EN CAUX ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "Place de la Gare Espace public du Littoral 76460 SAINT-VALERY-EN-CAUX",
+      "VILLE_ETAB": "SAINT VALERY EN CAUX "
+    },
+    {
+      "ID_ACCUEIL": 7,
+      "NOM_ACCUEIL": "SAINT ETIENNE DU ROUVRAY ",
+      "TYPE": "agence",
+      "ADRESSE_ETAB": "Place Jean Prévost Château Blanc Le Madrillet 76800 SAINT-ETIENNE-DU-ROUVRAY",
+      "VILLE_ETAB": "SAINT ETIENNE DU ROUVRAY "
+    },
+    {
+      "ID_ACCUEIL": 8,
+      "NOM_ACCUEIL": "SAHURS ",
+      "TYPE": "msap",
+      "ADRESSE_ETAB": "11 Rue BAS 76113 SAHURS",
+      "VILLE_ETAB": "SAHURS "
+    },
+    {
+      "ID_ACCUEIL": 9,
+      "NOM_ACCUEIL": "CPAM Rouen-Elbeuf-Dieppe",
+      "TYPE": "siege",
+      "ADRESSE_ETAB": "50 Avenue de Bretagne 76100 ROUEN",
+      "VILLE_ETAB": "ROUEN"
+    },
+    {
+      "ID_ACCUEIL": 10,
+      "NOM_ACCUEIL": "RIVES EN SEINE ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "5 Rue Sainte gertrude 76490 CAUDEBEC-EN-CAUX",
+      "VILLE_ETAB": "RIVES EN SEINE "
+    },
+    {
+      "ID_ACCUEIL": 11,
+      "NOM_ACCUEIL": "PETIT QUEVILLY ",
+      "TYPE": "pt_accueil",
+      "ADRESSE_ETAB": "Rue Martial Spinnweber 76140 LE PETIT-QUEVILLY",
+      "VILLE_ETAB": "PETIT QUEVILLY "
+    },
+    {
+      "ID_ACCUEIL": 12,
+      "NOM_ACCUEIL": "OISSEL ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "Place de la liberté CCAS Centre Eliane Teumbeuf 76350 OISSEL",
+      "VILLE_ETAB": "OISSEL "
+    },
+    {
+      "ID_ACCUEIL": 13,
+      "NOM_ACCUEIL": "NOTRE DAME DE BONDEVILLE ",
+      "TYPE": "agence",
+      "ADRESSE_ETAB": "95 Route de Dieppe 76690 NOTRE-DAME-DE-BONDEVILLE",
+      "VILLE_ETAB": "NOTRE DAME DE BONDEVILLE "
+    },
+    {
+      "ID_ACCUEIL": 14,
+      "NOM_ACCUEIL": "NEUFCHATEL EN BRAY ",
+      "TYPE": "pt_accueil",
+      "ADRESSE_ETAB": "Espace Alfred Lemarchand 76270 NEUFCHATEL-EN-BRAY",
+      "VILLE_ETAB": "NEUFCHATEL EN BRAY "
+    },
+    {
+      "ID_ACCUEIL": 15,
+      "NOM_ACCUEIL": "MARTAINVILLE EPREVILLE ",
+      "TYPE": "msap",
+      "ADRESSE_ETAB": "190 Route du chateau 76116 MARTAINVILLE-EPREVILLE",
+      "VILLE_ETAB": "MARTAINVILLE EPREVILLE "
+    },
+    {
+      "ID_ACCUEIL": 16,
+      "NOM_ACCUEIL": "MALAUNAY ",
+      "TYPE": "pt_accueil",
+      "ADRESSE_ETAB": "Place de la Mairie Hotel de ville 76770 MALAUNAY",
+      "VILLE_ETAB": "MALAUNAY "
+    },
+    {
+      "ID_ACCUEIL": 17,
+      "NOM_ACCUEIL": "MAISON DU PLATEAU ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "Place Alfred de Musset 76000 ROUEN",
+      "VILLE_ETAB": "MAISON DU PLATEAU "
+    },
+    {
+      "ID_ACCUEIL": 18,
+      "NOM_ACCUEIL": "LONDINIERES ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "340 Rue du Maréchal Leclerc 76660 LONDINIERES",
+      "VILLE_ETAB": "LONDINIERES "
+    },
+    {
+      "ID_ACCUEIL": 19,
+      "NOM_ACCUEIL": "LES HAUTS DE ROUEN ",
+      "TYPE": "agence",
+      "ADRESSE_ETAB": "8 Rue Joachim Du Bellay 76000 ROUEN",
+      "VILLE_ETAB": "LES HAUTS DE ROUEN "
+    },
+    {
+      "ID_ACCUEIL": 20,
+      "NOM_ACCUEIL": "LE TRAIT  ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "Rue Victor Hugo 76380 LE TRAIT",
+      "VILLE_ETAB": "LE TRAIT  "
+    },
+    {
+      "ID_ACCUEIL": 21,
+      "NOM_ACCUEIL": "JUMIEGES  ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "33 Rue Guillaume le Conquérant 76480 JUMIEGES",
+      "VILLE_ETAB": "JUMIEGES  "
+    },
+    {
+      "ID_ACCUEIL": 22,
+      "NOM_ACCUEIL": "GRAND COURONNE ",
+      "TYPE": "pt_accueil",
+      "ADRESSE_ETAB": "50 Rue Georges Clémenceau 76530 GRAND-COURONNE",
+      "VILLE_ETAB": "GRAND COURONNE "
+    },
+    {
+      "ID_ACCUEIL": 23,
+      "NOM_ACCUEIL": "GOURNAY EN BRAY ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "Place d'arme 76220 GOURNAY-EN-BRAY",
+      "VILLE_ETAB": "GOURNAY EN BRAY "
+    },
+    {
+      "ID_ACCUEIL": 24,
+      "NOM_ACCUEIL": "FONTAINE LE DUN ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "40 Rue Charles lescane 76740 FONTAINE-LE-DUN",
+      "VILLE_ETAB": "FONTAINE LE DUN "
+    },
+    {
+      "ID_ACCUEIL": 25,
+      "NOM_ACCUEIL": "EU ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "12 Avenue Jacques Anquetil 76260 EU",
+      "VILLE_ETAB": "EU "
+    },
+    {
+      "ID_ACCUEIL": 26,
+      "NOM_ACCUEIL": "ENVERMEUX ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "46 Rue du général de Gaulle Falaises du Talou 76630 ENVERMEU",
+      "VILLE_ETAB": "ENVERMEUX "
+    },
+    {
+      "ID_ACCUEIL": 27,
+      "NOM_ACCUEIL": "ELBEUF  ",
+      "TYPE": "agence",
+      "ADRESSE_ETAB": "Rue de la Prairie 76500 ELBEUF",
+      "VILLE_ETAB": "ELBEUF  "
+    },
+    {
+      "ID_ACCUEIL": 28,
+      "NOM_ACCUEIL": "DOUDEVILLE ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "2 Place du général de Gaulle Communauté plateau de Caux Doudeville 76560 DOUDEVILLE",
+      "VILLE_ETAB": "DOUDEVILLE "
+    },
+    {
+      "ID_ACCUEIL": 29,
+      "NOM_ACCUEIL": "DIEPPE ",
+      "TYPE": "agence",
+      "ADRESSE_ETAB": "19 Rue de Stalingrad 76200 DIEPPE",
+      "VILLE_ETAB": "DIEPPE "
+    },
+    {
+      "ID_ACCUEIL": 30,
+      "NOM_ACCUEIL": "DARNETAL ",
+      "TYPE": "pt_accueil",
+      "ADRESSE_ETAB": "99 Rue de Longpaon Espace culturel Savale 76160 DARNETAL",
+      "VILLE_ETAB": "DARNETAL "
+    },
+    {
+      "ID_ACCUEIL": 31,
+      "NOM_ACCUEIL": "CANY BARVILLE ",
+      "TYPE": "msap",
+      "ADRESSE_ETAB": "Place Espace public de la Vallée 76450 CANY-BARVILLE",
+      "VILLE_ETAB": "CANY BARVILLE "
+    },
+    {
+      "ID_ACCUEIL": 32,
+      "NOM_ACCUEIL": "CANTELEU ",
+      "TYPE": "pt_accueil",
+      "ADRESSE_ETAB": "6 Rue Ancienne Route de Duclair Maison des Services Publics 76380 CANTELEU",
+      "VILLE_ETAB": "CANTELEU "
+    },
+    {
+      "ID_ACCUEIL": 33,
+      "NOM_ACCUEIL": "BUCHY  ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "171 Grande rue 76750 BUCHY",
+      "VILLE_ETAB": "BUCHY  "
+    },
+    {
+      "ID_ACCUEIL": 34,
+      "NOM_ACCUEIL": "BOSC LE HARD ",
+      "TYPE": "msap",
+      "ADRESSE_ETAB": "Place du marché 76850 BOSC-LE-HARD",
+      "VILLE_ETAB": "BOSC LE HARD "
+    },
+    {
+      "ID_ACCUEIL": 35,
+      "NOM_ACCUEIL": "BLANGY SUR BRESLES ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "18 Rue de brianchon 76340 BLANGY-SUR-BRESLE",
+      "VILLE_ETAB": "BLANGY SUR BRESLES "
+    },
+    {
+      "ID_ACCUEIL": 36,
+      "NOM_ACCUEIL": "BELLENCOMBRE ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "24 Rue de l'audience 76680 BELLENCOMBRE",
+      "VILLE_ETAB": "BELLENCOMBRE "
+    },
+    {
+      "ID_ACCUEIL": 37,
+      "NOM_ACCUEIL": "BARENTIN ",
+      "TYPE": "pt_accueil",
+      "ADRESSE_ETAB": "Rue Emile Zola Maison Citoyenne 76360 BARENTIN",
+      "VILLE_ETAB": "BARENTIN "
+    },
+    {
+      "ID_ACCUEIL": 38,
+      "NOM_ACCUEIL": "VALMONT ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "7 Rue d'estouville 76540 VALMONT",
+      "VILLE_ETAB": "VALMONT "
+    },
+    {
+      "ID_ACCUEIL": 39,
+      "NOM_ACCUEIL": "SAINT ROMAIN DE COLBOSC ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "5 Rue Sylvestre Dumesnil 76340 SAINT-ROMAIN-DE-COLBOSC",
+      "VILLE_ETAB": "SAINT ROMAIN DE COLBOSC "
+    },
+    {
+      "ID_ACCUEIL": 40,
+      "NOM_ACCUEIL": "MONTIVILLIERS  ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "Cours Saint Philibert 76290 MONTIVILLIERS",
+      "VILLE_ETAB": "MONTIVILLIERS  "
+    },
+    {
+      "ID_ACCUEIL": 41,
+      "NOM_ACCUEIL": "LILLEBONNE ",
+      "TYPE": "pt_accueil",
+      "ADRESSE_ETAB": "32 Rue de la République 76170 LILLEBONNE",
+      "VILLE_ETAB": "LILLEBONNE "
+    },
+    {
+      "ID_ACCUEIL": 42,
+      "NOM_ACCUEIL": "GONFREVILLE L’ORCHER ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "1 Avenue Jacques Eberhard centre social AGIES 76700 GONFREVILLE-L'ORCHER",
+      "VILLE_ETAB": "GONFREVILLE L’ORCHER "
+    },
+    {
+      "ID_ACCUEIL": 43,
+      "NOM_ACCUEIL": "GODERVILLE  ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "2 Rue de Bel Air 76110 GODERVILLE",
+      "VILLE_ETAB": "GODERVILLE  "
+    },
+    {
+      "ID_ACCUEIL": 44,
+      "NOM_ACCUEIL": "FÉCAMP  ",
+      "TYPE": "pt_accueil",
+      "ADRESSE_ETAB": "20 Place Général Leclerc 76400 FECAMP",
+      "VILLE_ETAB": "FÉCAMP  "
+    },
+    {
+      "ID_ACCUEIL": 45,
+      "NOM_ACCUEIL": "ETRETAT ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "Avenue George V 76790 ETRETAT",
+      "VILLE_ETAB": "ETRETAT "
+    },
+    {
+      "ID_ACCUEIL": 46,
+      "NOM_ACCUEIL": "CRIQUETOT L’ESNEVAL ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "28 Route de Vergetot 76280 CRIQUETOT-L'ESNEVAL",
+      "VILLE_ETAB": "CRIQUETOT L’ESNEVAL "
+    },
+    {
+      "ID_ACCUEIL": 47,
+      "NOM_ACCUEIL": "LILLEBONNE – CLIP FORMATION  ",
+      "TYPE": "france_services",
+      "ADRESSE_ETAB": "2 Rue Victor Hugo 76170 LILLEBONNE",
+      "VILLE_ETAB": "LILLEBONNE – CLIP FORMATION  "
+    },
+    {
+      "ID_ACCUEIL": 48,
+      "NOM_ACCUEIL": "CAUCRIAUVILLE  ",
+      "TYPE": "pt_accueil",
+      "ADRESSE_ETAB": "10 Rue Jules Vallès 76610 LE HAVRE",
+      "VILLE_ETAB": "CAUCRIAUVILLE  "
+    },
+    {
+      "ID_ACCUEIL": 49,
+      "NOM_ACCUEIL": "ANGERVILLE L’ORCHER ",
+      "TYPE": "msap",
+      "ADRESSE_ETAB": "33 Rue de l'Europe 76280 ANGERVILLE-L'ORCHER",
+      "VILLE_ETAB": "ANGERVILLE L’ORCHER "
+    },
+    {
+      "ID_ACCUEIL": 50,
+      "NOM_ACCUEIL": "CPAM Le Havre ",
+      "TYPE": "siege",
+      "ADRESSE_ETAB": "42 cours de la République, Le Havre",
+      "VILLE_ETAB": "LE HAVRE"
+    }
+   ]
