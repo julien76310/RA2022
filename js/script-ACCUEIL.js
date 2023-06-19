@@ -69,7 +69,7 @@ $.when(
         position_marker,
         { icon: L.icon({
           iconUrl: 'pictos/Accueil-'+data[index_data]["TYPE"]+'.png',
-          iconSize:     [40, 40], // size of the icon
+          iconSize:     [20, 20], // size of the icon
         }),
           draggable: true,
           title: "",
