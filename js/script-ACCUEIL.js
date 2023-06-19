@@ -63,7 +63,7 @@ $.when(
       const position_marker = geojson[i]["MARKER"].split(','); 
       const id_ACCUEIL = geojson[i]["ID_ACCUEIL"];
       //console.log(position_marker);
-      var index_data = functiontofindIndexByKeyValue(data, 'ID_ACCUEIL', id_etab);
+      var index_data = functiontofindIndexByKeyValue(data, 'ID_ACCUEIL', id_ACCUEIL);
      
       var marker = L.marker(
         position_marker,
