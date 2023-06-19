@@ -68,13 +68,13 @@ $.when(
       var marker = L.marker(
         position_marker,
         { icon: L.icon({
-          iconUrl: 'pictos/Accueil_CPAM-'+data[index_data]["TYPE"]+'.png',
+          iconUrl: 'pictos/Accueil-'+data[index_data]["TYPE"]+'.png',
           iconSize:     [40, 40], // size of the icon
         }),
           draggable: true,
           title: "",
           opacity: 0.9
-      }).bindPopup("<p1><h3>"+geojson[i]["NOM_ACCUEIL"]+" <img src='pictos/Accueil_CPAM-"+data[index_data]["TYPE"]+".png' height='20px' width='20px'></h3><hr><p>"+data[index_data]["ADRESSE_ETAB"]+"</p>").addTo(map);
+      }).bindPopup("<p1><h3>"+geojson[i]["NOM_ACCUEIL"]+" <img src='pictos/Accueil-"+data[index_data]["TYPE"]+".png' height='20px' width='20px'></h3><hr><p>"+data[index_data]["ADRESSE_ETAB"]+"</p>").addTo(map);
        }
 
        var index_detailsData = functiontofindIndexByKey(data, "NOM_DATA");
